@@ -1,8 +1,7 @@
 from model.daftar_nilai import data
 
 
-def tambahdata():
-    print("Tambah Data")
+def inputdata():
     nama = input("Nama\t\t: ")
     nim = int(input("NIM\t\t\t: "))
     tugas = int(input("NIlai Tugas\t: "))
