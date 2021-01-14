@@ -211,4 +211,17 @@ Dari semua itu, maka outputnya adalah :<br>
 * Ubah data<br>
 ![ubah](Pic/ubahdata.png)<br>
 setelah merubah data maka di cek lagi<br>
-![ubahview](Pic/li)
+
+* Hapus data<br>
+![hapus](Pic/hapusdata.png)<br>
+
+* Cari data<br>
+![cari](Pic/caridata.png)<br>
+
+
+**==================================================================**<br>
+**========================= FAZA ARDAN KUSUMA ========================**<br>
+**============================= 312010001 =============================**<br>
+**============================== TA.20.B1 =============================**<br>
+**============================ TERIMA KASIH ==========================**<br>
+**==================================================================**
