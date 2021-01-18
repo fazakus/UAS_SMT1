@@ -218,6 +218,11 @@ setelah merubah data maka di cek lagi<br>
 * Cari data<br>
 ![cari](Pic/caridata.png)<br>
 
+*Keluar Program<br>
+![keluar](Pic/keluarprogram.png)<br>
+
+Sekian untuk tugas UAS di Semester 1 ini, terima kasih
+
 
 **==================================================================**<br>
 **========================= FAZA ARDAN KUSUMA ========================**<br>
